@@ -1,4 +1,4 @@
-# Hi, I'm Dwijesh 👋
+# Hi, I'm Dwijesh 
 
 **CRM and automation specialist moving into AI engineering and solutions architecture.**
 I design LLM-powered workflows that sit inside real business systems: the CRM, the pipeline, the handoff to a human.
